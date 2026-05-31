@@ -25,14 +25,14 @@
             "id": "e680fd949a25ef17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Hello World.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Hello World.md",
+                "bFile": "Hello World.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Hello World"
+              "icon": "diff",
+              "title": "Diff: Hello World  (Working Tree)"
             }
           }
         ],
@@ -210,11 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1328ada797af78f1",
+  "active": "e680fd949a25ef17",
   "lastOpenFiles": [
+    "Hello World.md",
     "新建 文本文档.txt",
     "创建链接.md",
-    "Hello World.md",
     "欢迎.md",
     "未命名.base"
   ]
