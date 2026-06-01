@@ -11,13 +11,32 @@
             "id": "25711d2614fb717a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "杂物/Hello World.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Hello World"
+            }
+          },
+          {
+            "id": "530e2f93bcf26074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/第十章/作业三.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "作业三"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,15 +207,26 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false,
+      "nutstore-sync:Open chatbox": false
     }
   },
-  "active": "cc564dae39ec3538",
+  "active": "530e2f93bcf26074",
   "lastOpenFiles": [
-    "创建链接.md",
+    "计算机组成原理/第十章/image1.png",
+    "计算机组成原理/第十章/作业三.md",
+    "计算机组成原理/第十章/作业解析.md",
+    "杂物/测试的一部分.md",
     "未命名.base",
+    "杂物",
+    "杂物/毛概PPT制作要求.md",
+    "杂物/Hello World.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "创建链接.md",
     "欢迎.md",
-    "Hello World.md",
     "新建 文本文档.txt"
   ]
 }
