@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/第十章/作业解析.md",
+                "file": "Linux课程笔记.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "作业解析"
+              "title": "Linux课程笔记"
             }
           }
         ],
@@ -214,9 +214,14 @@
   },
   "active": "cc564dae39ec3538",
   "lastOpenFiles": [
+    "Hello World.md",
+    "软件需求分析/第01章_需求工程与需求管理.md",
+    "软件需求分析/第09章_数据建模.md",
+    "软件需求分析/第11章_Rational统一过程.md",
+    "软件需求分析/README.md",
+    "计算机组成原理/第十章/作业解析.md",
     "计算机组成原理/第十章/作业三.md",
     "计算机组成原理/第十章/image1.png",
-    "计算机组成原理/第十章/作业解析.md",
     "杂物/测试的一部分.md",
     "未命名.base",
     "杂物",
